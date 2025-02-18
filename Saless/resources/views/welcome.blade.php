@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1 class="bg-red-500 h-[12rem]">Laravel Project</h1>
+    <h1 class="">Laravel Project</h1>
     <a href="{{ route('home') }}">Home</a>
     <a href="{{ route('about') }}">About</a>
     <a href="{{ route('contact') }}">contact</a>
